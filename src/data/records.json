@@ -1,0 +1,66 @@
+{
+  "mountaineeringRecords": [
+    {
+      "id": "rec-001",
+      "category": "First Ascent",
+      "title": "Mount Everest",
+      "climber": "Edmund Hillary & Tenzing Norgay",
+      "date": "1953-05-29",
+      "altitude": "8,849 m",
+      "details": "The first confirmed ascent of Mount Everest, the world's highest peak, achieved via the South Col route during the 1953 British expedition led by John Hunt."
+    },
+    {
+      "id": "rec-002",
+      "category": "Speed Record",
+      "title": "Mount Everest",
+      "climber": "Lakpa Rita Sherpa",
+      "date": "2024-05-22",
+      "altitude": "8,849 m",
+      "details": "Fastest known ascent from Everest Base Camp to the summit, completed in approximately 26 hours without supplemental oxygen caches above Camp II."
+    },
+    {
+      "id": "rec-003",
+      "category": "First Ascent",
+      "title": "K2",
+      "climber": "Achille Compagnoni & Lino Lacedelli",
+      "date": "1954-07-31",
+      "altitude": "8,611 m",
+      "details": "The first successful summit of K2, the world's second-highest and most technically demanding peak, accomplished during the 1954 Italian Karakoram expedition."
+    }
+  ],
+  "organizations": [
+    {
+      "id": "org-001",
+      "name": "The Alpine Club",
+      "description": "Founded in 1857, The Alpine Club is the world's first mountaineering club, dedicated to promoting mountain exploration, climbing, and the preservation of alpine heritage.",
+      "location": "London, United Kingdom",
+      "website": "https://www.alpine-club.org.uk",
+      "coordinates": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    {
+      "id": "org-002",
+      "name": "Deutscher Alpenverein (DAV)",
+      "description": "The German Alpine Club is the largest mountaineering organization in the world, with over 1.4 million members operating 320+ alpine huts and maintaining 30,000 km of trails.",
+      "location": "Munich, Germany",
+      "website": "https://www.alpenverein.de",
+      "coordinates": {
+        "lat": 48.1351,
+        "lng": 11.582
+      }
+    },
+    {
+      "id": "org-003",
+      "name": "American Alpine Club",
+      "description": "Founded in 1902, the AAC supports the climbing community through advocacy for access and conservation, education programs, and the annual publication of the American Alpine Journal.",
+      "location": "Golden, Colorado, United States",
+      "website": "https://americanalpineclub.org",
+      "coordinates": {
+        "lat": 39.7555,
+        "lng": -105.2211
+      }
+    }
+  ]
+}

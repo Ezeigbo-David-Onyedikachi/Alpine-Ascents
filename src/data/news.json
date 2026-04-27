@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Revolutionary Lightweight Crampon System Released",
+    "category": "Equipment",
+    "date": "2026-02-18",
+    "author": "Alpine Ascents Team",
+    "excerpt": "A new carbon-fiber crampon system weighing just 480g per pair promises to transform high-altitude mountaineering. Early testers report exceptional grip and durability.",
+    "imageKey": "climbing-adventure",
+    "readTime": "4 min read"
+  },
+  {
+    "id": 2,
+    "title": "New Route Discovered on K2's West Face",
+    "category": "Discovery",
+    "date": "2026-02-10",
+    "author": "James Whitaker",
+    "excerpt": "An international expedition led by veteran alpinist James Whitaker has identified a previously uncharted route on K2's west face, potentially offering a safer alternative to the Abruzzi Spur.",
+    "imageKey": "mountain-peaks",
+    "readTime": "6 min read"
+  },
+  {
+    "id": 3,
+    "title": "Climate Change Reveals Ancient Artifacts in Alpine Glaciers",
+    "category": "Discovery",
+    "date": "2026-01-28",
+    "author": "Dr. Maria Esposito",
+    "excerpt": "Rapidly retreating glaciers in the Alps have uncovered remarkably preserved climbing equipment from the early 1900s, offering a window into pioneering mountaineering history.",
+    "imageKey": "starry-mountain",
+    "readTime": "5 min read"
+  },
+  {
+    "id": 4,
+    "title": "AI-Powered Weather Forecasting Saves Lives at Base Camp",
+    "category": "Innovation",
+    "date": "2026-01-15",
+    "author": "Tech Summit Labs",
+    "excerpt": "A new AI system processing satellite data can now predict mountain weather with 94% accuracy up to 72 hours in advance, giving climbers crucial planning windows.",
+    "imageKey": "snow-mountain",
+    "readTime": "3 min read"
+  },
+  {
+    "id": 5,
+    "title": "Record-Breaking Winter Ascent of Nanga Parbat Completed",
+    "category": "Expedition",
+    "date": "2026-01-05",
+    "author": "Alpine Ascents Team",
+    "excerpt": "A team of three climbers has completed the first winter ascent of Nanga Parbat's Rupal Face in alpine style, setting a new benchmark for extreme high-altitude climbing.",
+    "imageKey": "mountain-team",
+    "readTime": "7 min read"
+  }
+]
