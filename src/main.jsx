@@ -12,6 +12,10 @@
 import { StrictMode } from 'react'            // React strict mode for dev warnings
 import { createRoot } from 'react-dom/client'  // React 19 concurrent rendering API
 import { BrowserRouter } from 'react-router-dom' // Client-side routing provider
+
+// GitHub Pages deploys to a subpath matching the repo name.
+// This must match the `base` value in vite.config.js.
+const basename = import.meta.env.BASE_URL;
 import { ThemeProvider } from './context/ThemeContext' // Dark/light theme context
 import './i18n'                                // Initialize i18next (must run before render)
 import 'bootstrap/dist/css/bootstrap.min.css'  // Bootstrap CSS framework
@@ -23,7 +27,7 @@ import App from './App.jsx'                    // Root application component
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     {/* BrowserRouter enables client-side URL routing */}
-    <BrowserRouter>
+    <BrowserRouter basename={basename}>
       {/* ThemeProvider supplies dark/light theme state to all children */}
       <ThemeProvider>
         <App />
