@@ -3,7 +3,7 @@
 Alpine Ascents is a high-performance, multi-page React application built for mountaineering enthusiasts. This platform provides an immersive experience for users to explore peaks, gear up for expeditions, and book their next climbing adventure.
 
 ## Live Demo
-**[View Alpine Ascents Live](https://alpineascentsmountaineering.netlify.app/)**
+**[View Alpine Ascents Live](https://ezeigbo-david-onyedikachi.github.io/Alpine-Ascents/)**
 
 ## Project Overview
 This project serves as a comprehensive showcase of modern frontend architecture. It features dynamic page routing, a dual-theme design system, and full internationalization (i18n) support to cater to a global audience of climbers.
